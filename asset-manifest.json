@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PhuongVy/static/css/main.8c7ad32f.css",
+    "main.js": "/PhuongVy/static/js/main.f598149f.js",
+    "static/js/787.907d20ab.chunk.js": "/PhuongVy/static/js/787.907d20ab.chunk.js",
+    "index.html": "/PhuongVy/index.html",
+    "main.8c7ad32f.css.map": "/PhuongVy/static/css/main.8c7ad32f.css.map",
+    "main.f598149f.js.map": "/PhuongVy/static/js/main.f598149f.js.map",
+    "787.907d20ab.chunk.js.map": "/PhuongVy/static/js/787.907d20ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c7ad32f.css",
+    "static/js/main.f598149f.js"
+  ]
+}
