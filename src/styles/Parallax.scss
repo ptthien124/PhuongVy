@@ -1,0 +1,38 @@
+.parallax {
+  height: 100vh;
+  width: 100vw;
+  z-index: 0;
+  position: relative;
+}
+
+.parallax__layer {
+  position: absolute;
+  overflow-x: hidden;
+
+  display: flex;
+  justify-content: center;
+
+  width: 100%;
+  margin-top: 515px;
+
+  img {
+    object-fit: contain;
+  }
+}
+.parallax__cover {
+  position: absolute;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  height: 100vh;
+  margin-top: 99vh;
+  background: linear-gradient(180deg, #2d112b, #3d183b);
+
+  span {
+    color: white;
+    font-size: 4rem;
+  }
+}
