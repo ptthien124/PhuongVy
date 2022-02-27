@@ -8,6 +8,7 @@
 .parallax__layer {
   position: absolute;
   overflow-x: hidden;
+  bottom: 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -15,7 +16,6 @@
       -ms-flex-pack: center;
           justify-content: center;
   width: 100%;
-  margin-top: 515px;
 }
 
 .parallax__layer img {

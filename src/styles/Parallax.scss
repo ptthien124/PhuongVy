@@ -8,12 +8,12 @@
 .parallax__layer {
   position: absolute;
   overflow-x: hidden;
+  bottom: 0;
 
   display: flex;
   justify-content: center;
 
   width: 100%;
-  margin-top: 515px;
 
   img {
     object-fit: contain;
