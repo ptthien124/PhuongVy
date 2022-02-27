@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PhuongVy/static/css/main.1ce81cca.css",
-    "main.js": "/PhuongVy/static/js/main.7a332591.js",
+    "main.css": "/PhuongVy/static/css/main.2a90d762.css",
+    "main.js": "/PhuongVy/static/js/main.07a8335c.js",
     "static/js/787.907d20ab.chunk.js": "/PhuongVy/static/js/787.907d20ab.chunk.js",
     "index.html": "/PhuongVy/index.html",
-    "main.1ce81cca.css.map": "/PhuongVy/static/css/main.1ce81cca.css.map",
-    "main.7a332591.js.map": "/PhuongVy/static/js/main.7a332591.js.map",
+    "main.2a90d762.css.map": "/PhuongVy/static/css/main.2a90d762.css.map",
+    "main.07a8335c.js.map": "/PhuongVy/static/js/main.07a8335c.js.map",
     "787.907d20ab.chunk.js.map": "/PhuongVy/static/js/787.907d20ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ce81cca.css",
-    "static/js/main.7a332591.js"
+    "static/css/main.2a90d762.css",
+    "static/js/main.07a8335c.js"
   ]
 }
