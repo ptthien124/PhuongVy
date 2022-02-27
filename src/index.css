@@ -22,8 +22,3 @@ html {
   scroll-behavior: smooth;
   overflow-y: overlay;
 }
-
-html,
-body {
-  background-color: #fedcc8;
-}

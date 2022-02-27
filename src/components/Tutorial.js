@@ -8,8 +8,9 @@ function Tutorial() {
         <p className="header__description">
           middle click and move down a little bit to scroll down slowly.
         </p>
-        <div className="header__mouse"></div>
-        <span></span>
+        <div className="header__mouse">
+          <span></span>
+        </div>
         <div className="header__arrow"></div>
         <div className="header__arrow"></div>
       </div>

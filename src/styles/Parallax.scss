@@ -1,8 +1,9 @@
 .parallax {
   height: 100vh;
   width: 100vw;
-  z-index: 0;
+  z-index: -1;
   position: relative;
+  background-color: #fedcc8;
 }
 
 .parallax__layer {
@@ -21,14 +22,15 @@
 }
 .parallax__cover {
   position: absolute;
+  z-index: 0;
 
   display: flex;
   justify-content: center;
   align-items: center;
 
   width: 100%;
-  height: 100vh;
-  margin-top: 99vh;
+  height: 802px;
+  margin-top: 99.9vh;
   background: linear-gradient(180deg, #2d112b, #3d183b);
 
   span {
